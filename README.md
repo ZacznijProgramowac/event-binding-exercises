@@ -7,7 +7,7 @@
 
 # Otwórz przez StackBlitz:
 
-[https://stackblitz.com/github/ZacznijProgramowac/ng-for-examples](https://stackblitz.com/github/ZacznijProgramowac/event-binding-exercises)
+[https://stackblitz.com/github/ZacznijProgramowac/event-binding-exercises](https://stackblitz.com/github/ZacznijProgramowac/event-binding-exercises)
 
 ## Wymagania projektu
 
