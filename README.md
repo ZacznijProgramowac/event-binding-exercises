@@ -1,4 +1,4 @@
-# Dodatkowe przykłady na potrzeby kursu Angulara
+# Dodatkowe ćwiczenia na potrzeby kursu Angulara
 
 ## Więcej informacji:
 
